@@ -23,7 +23,7 @@ Hub Skeleton is een complete template voor het opzetten van een gecentraliseerde
 
 ```bash
 # 1. Clone en reset
-git clone https://github.com/[user]/hub-skeleton.git my-hub
+git clone https://github.com/bakfietss/hub-skeleton.git my-hub
 cd my-hub
 rm -rf .git
 git init

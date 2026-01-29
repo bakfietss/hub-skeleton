@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.npm
+.yarn
+
+# Environment
+.env
+.env.local
+.env.*.local
+*.local.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Build output
+dist/
+build/
+out/
+
+# Private directories (clone separately)
+klanten/
+repos/
+
+# Credentials
+*.pem
+*.key
+credentials.json
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# MCP servers with credentials
+.mcp.json
+
+# Keep structure but ignore contents
+!klanten/.gitkeep
+!personal/.gitkeep
+!solutions/.gitkeep

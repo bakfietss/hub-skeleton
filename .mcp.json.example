@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "example-server": {
+      "command": "node",
+      "args": [".claude/mcp/example/index.js"],
+      "description": "Example MCP server - replace with your own"
+    },
+    "n8n-mcp": {
+      "command": "npx",
+      "args": ["n8n-mcp"],
+      "env": {
+        "N8N_API_URL": "https://your-n8n-instance.com",
+        "N8N_API_KEY": "your-api-key-here"
+      },
+      "description": "N8N workflow automation (install n8n module first)"
+    }
+  }
+}

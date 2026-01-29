@@ -18,13 +18,22 @@ cat .planning/STATE.md
 
 ## Documentatie Overzicht
 
+### Setup & Guides
 | Document | Doel |
 |----------|------|
 | [INSTALLATION.md](INSTALLATION.md) | Hub installatie & setup |
 | [WORKFLOW.md](WORKFLOW.md) | Dagelijkse workflow |
 | [SOLUTION-GUIDE.md](SOLUTION-GUIDE.md) | Nieuwe solution aanmaken |
 | [AGENT-GUIDE.md](AGENT-GUIDE.md) | Agents gebruiken & toevoegen |
-| [GSD-GUIDE.md](GSD-GUIDE.md) | Get Shit Done framework |
+| [GSD-GUIDE.md](GSD-GUIDE.md) | Get Shit Done quick reference |
+
+### Framework Documentatie
+| Document | Doel |
+|----------|------|
+| [FRAMEWORK-GSD.md](FRAMEWORK-GSD.md) | Volledige GSD framework uitleg |
+| [WORKFLOW-OVERZICHT.md](WORKFLOW-OVERZICHT.md) | Uitgebreide workflow documentatie |
+| [SOLUTION-WORKFLOW.md](SOLUTION-WORKFLOW.md) | Twee development patterns |
+| [IP-BESCHERMING.md](IP-BESCHERMING.md) | IP bescherming via parent directory |
 
 ---
 
